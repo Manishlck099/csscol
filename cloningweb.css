@@ -1,0 +1,25 @@
+table{
+    border-spacing: 30px;
+}
+body{
+    background-color: wheat;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(255, 0, 212);
+    height: 0px;
+    width: 7%;
+    border-width: 10px;
+
+}
+table{
+    background-color: brown;
+}
+
+text{
+    background-color:wheat;
+} 
+submit{
+    background-color: brown;
+}
